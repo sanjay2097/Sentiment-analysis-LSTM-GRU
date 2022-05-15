@@ -20,7 +20,8 @@
 
 #### Deep learning and machine learning are sometimes used interchangeably. Deep learning is, indeed, machine learning, but it is more advanced. When basic machine learning makes a mistake, human input is required to correct it – to change the output and “force” the model to learn. In deep learning, however, the neural network can learn to correct itself through its advanced algorithm chain.
 
-![image](https://user-images.githubusercontent.com/98027899/168474683-ed2400c3-3fa9-49fc-9bd2-c0019f7a2968.png)
+![168474683-ed2400c3-3fa9-49fc-9bd2-c0019f7a2968](https://user-images.githubusercontent.com/98027899/168475163-2ee4d190-1d1b-42be-a9f1-22cf0b78514b.png)
+
 
 ## Conclusion
 
